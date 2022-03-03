@@ -1,0 +1,19 @@
+.carousel-inner{
+    height: 600px;
+    
+}
+.start{
+    margin: 50px;
+    background-color: beige;
+    padding:20px ;
+}
+.card-body{
+    height: 300px;
+    
+}
+h4{
+    color: rgb(24, 5, 63);
+}
+.flex{
+    
+}
